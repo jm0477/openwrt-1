@@ -92,3 +92,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 #Turbo ACC 加速 lede包已有
 
 ##############################################################################################
+
+# smartdns
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-smartdns package/luci-app-smartdns
