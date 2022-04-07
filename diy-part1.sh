@@ -94,4 +94,4 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 ##############################################################################################
 
 # smartdns
-svn co https://github.com/kiddin9/openwrt-packages/trunk/smartdns package/smartdns
+git clone https://github.com/OpenWrt-Actions/luci-app-smartdns.git package/luci-app-smartdns
